@@ -1,2 +1,2 @@
-p,t,r=map(int,input().split())
-print(int(p*t*r/100))
+a,b,c=map(float,input().split())
+print(int(a*b*c//100))
