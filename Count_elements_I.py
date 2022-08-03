@@ -7,4 +7,4 @@ c=0
 for i in range(a):
     if l[i] in m:
         k.append(l[i])
-print(len(set(k)))        
+print(len(set(k)))   
