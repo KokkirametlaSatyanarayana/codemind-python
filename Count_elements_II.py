@@ -14,4 +14,3 @@ for i in range(len(f)):
     if f[i] not in e:
         n.append(f[i])
 print(len(k)+len(n))
-        
