@@ -4,6 +4,3 @@ if a%2==0:
     print(*l1)
 else:
     print(*l1,end=' 0')
-    
-        
-    
