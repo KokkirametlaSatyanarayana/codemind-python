@@ -7,4 +7,3 @@ for i in range(len(l3)):
         count+=l3[i]
 print(count)
         
-    
