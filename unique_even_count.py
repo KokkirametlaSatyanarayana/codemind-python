@@ -7,5 +7,3 @@ for i in range(len(l3)):
     if l3[i]%2==0:
         count+=1
 print(count)
-        
-    
