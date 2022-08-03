@@ -8,4 +8,3 @@ for i in range(len(l3)):
         count+=1
 print(count)
         
-    
