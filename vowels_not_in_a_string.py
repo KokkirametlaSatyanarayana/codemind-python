@@ -24,4 +24,3 @@ if count>0:
     print(*y)
 else:
     print('0')
-    
