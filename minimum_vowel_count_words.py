@@ -20,5 +20,3 @@ for i in range(len(a)):
     if mini==count:
         su+=1
 print(su)
-
-            
