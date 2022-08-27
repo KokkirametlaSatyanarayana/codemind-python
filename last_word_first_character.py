@@ -6,4 +6,3 @@ for i in range(len(a)-1,len(a)):
     for i in range(len(x)):
         print(x[i])
         break
-        
