@@ -12,5 +12,3 @@ for i in range(len(a)):
     if count<mini:
         mini=count
 print(mini)
-
-            
