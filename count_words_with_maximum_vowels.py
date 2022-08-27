@@ -20,5 +20,3 @@ for i in range(len(a)):
     if maxi==count:
         su+=1
 print(su)
-
-            
