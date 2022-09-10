@@ -26,4 +26,3 @@ for i in range(len(x)):
     if x[i] in y:
         su+=1
 print(su)
-        
