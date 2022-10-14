@@ -18,4 +18,3 @@ for i in range(len(l2)):
     if count==1 and l2[i] not in l1:
         x.append(l2[i])
 print(*x)
-        
