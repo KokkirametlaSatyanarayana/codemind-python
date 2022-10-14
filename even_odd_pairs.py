@@ -27,7 +27,3 @@ if len(y)>len(x):
 elif len(x)==len(y):
     for i in range(len(x)):
         print(x[i],y[i],end=" ")
-        
-    
-    
-        
