@@ -26,4 +26,3 @@ for i in range(len(l)):
         if prime(l[i]):
             count+=1
 print(count)
-        
