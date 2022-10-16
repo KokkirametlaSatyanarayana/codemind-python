@@ -1,7 +1,9 @@
-a=input()
-a=a.lower()
-x=set(a)
-l=sorted(x)
-for i in range(len(l)):
-    if ord(l[i])!=32:
-        print(l[i],end='')
+n=input()
+n=n.lower()
+c=0
+q=""
+for i in n:
+    if i not in q and n.count(i)==1 and i!=' ':
+        q+=i
+x="".join(sorted(q))
+print(x)
