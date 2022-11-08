@@ -12,4 +12,3 @@ if count==len(l2):
     print("Yes")
 else:
     print("No")
-                
